@@ -17,8 +17,8 @@ Vue 3 (Composition API) frontend with Vue Router and Pinia
 
 | Software | Version |
 |---|---|
-| Node.js (includes npm) | 20.19 or newer (tested with [your version, from `node -v`]) |
-| MongoDB Community Edition | running locally on port 27017 (tested with [your version]) |
+| Node.js (includes npm) | 20.19 or newer (tested with version v24.13.1, from `node -v`) |
+| MongoDB Community Edition | running locally on port 27017 (tested with v24.13.1) |
 | A modern web browser | Chrome, Edge, Firefox, or Safari |
 
 No MongoDB Atlas, cloud database, or credentials are needed.
